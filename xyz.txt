@@ -13,3 +13,13 @@ git add "filename.extension"
 -to commit
 
 git commit -m "Comment"
+
+-to check commit history
+
+git log
+
+- to go to specific git log entry
+
+git checkout Entrynumber
+
+ex- git checkout 2ad56b768d84067f382238a45f6d69b38cf3d7d4

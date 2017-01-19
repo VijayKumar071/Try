@@ -1,1 +1,15 @@
-Initial commit
+-Starting git
+
+git init
+
+-to check status
+
+git status
+
+-to add a file
+
+git add "filename.extension"
+
+-to commit
+
+git commit -m "Comment"
